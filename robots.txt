@@ -1,5 +1,2 @@
 
-User-agent: * 
-Disallow:
-
 Sitemap: https://бестджобс.бг/sitemap.xml
